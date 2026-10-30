@@ -1,6 +1,6 @@
-# Wordmate Lite: Vocabulary support
+# Wordmate Lite: Word Trail support
 
-> Official support, help and privacy pages for Wordmate Lite: Vocabulary, an iOS app by Lumi Studio.
+> Official support, help and privacy pages for Wordmate Lite: Word Trail, an iOS app by Lumi Studio.
 
 - App Store: https://apps.apple.com/app/id6797601720
 - Platform: iOS
