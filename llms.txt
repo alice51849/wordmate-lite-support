@@ -14,4 +14,13 @@
 - [Support and contact](https://open.cait518.cc/wordmate-lite-support/support.html)
 - [Privacy policy](https://open.cait518.cc/wordmate-lite-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+## About the app (plain-language Q&A)
+
+- [What is Wordmate Lite? Learn 5 words a day in 44 languages, offline](https://open.cait518.cc/wordmate-lite-support/what-is-wordmatelite.html)
+- [Wordmate Lite คืออะไร? เรียนวันละ 5 คำ 44 ภาษา ใช้ได้แบบออฟไลน์](https://open.cait518.cc/wordmate-lite-support/what-is-wordmatelite.th.html)
+- [Wordmate Lite là gì? Học 5 từ mỗi ngày, 44 ngôn ngữ, không cần mạng](https://open.cait518.cc/wordmate-lite-support/what-is-wordmatelite.vi.html)
+- [Wordmate Liteとは？1日5単語、44言語、オフラインで使える単語アプリ](https://open.cait518.cc/wordmate-lite-support/what-is-wordmatelite.ja.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
